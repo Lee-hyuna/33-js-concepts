@@ -325,7 +325,7 @@ All the translations for this repo will be listed below:
 
 ### Videos
 
-- [ ] 🎥 [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
+- [X] 🎥 [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
 **[⬆ Back to Top](#table-of-contents)**
 
